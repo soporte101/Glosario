@@ -1,0 +1,37 @@
+﻿/** BEGIN GLOSARIO **/
+.abc { 
+	background-color: #218964 !important;
+	margin: 5px;
+	padding: 10px;
+	text-align: center;
+	font-size: 25px;
+	margin: 0 auto;
+	letter-spacing:5px;
+font-family:'Oswald', sans-serif !important;
+}
+.abc a {
+    color:#fff !important;
+font-family:'Oswald', sans-serif !important;
+}
+.abc a:link{
+	color:#fff;
+	text-decoration:none !important;
+font-family:'Oswald', sans-serif !important;
+}
+	
+.abc a:hover{
+	color:#fff;
+	text-decoration:none !important;
+font-family:'Oswald', sans-serif !important;
+}
+	
+.abc a:visited{
+	color:#fff;
+	text-decoration:none !important;
+font-family:'Oswald', sans-serif !important;
+}
+
+.cont{
+	text-align:justify;
+font-family:'Oswald', sans-serif !important;
+}
